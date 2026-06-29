@@ -1,0 +1,11 @@
+{
+  "name": "skill-recommend",
+  "version": "1.0.1",
+  "description": "Notices when a skill could help. Mentions it once. Gets out of the way.",
+  "author": {
+    "name": "Salvador Muñoz",
+    "email": "salvador.munoz@gmail.com",
+    "url": "https://github.com/kthxbyte"
+  },
+  "skills": ["./"]
+}

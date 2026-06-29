@@ -1,0 +1,25 @@
+{
+  "name": "kthxbyte",
+  "owner": {
+    "name": "Salvador Muñoz",
+    "email": "salvador.munoz@gmail.com",
+    "url": "https://github.com/kthxbyte"
+  },
+  "plugins": [
+    {
+      "name": "skill-recommend",
+      "description": "Notices when a skill could help. Mentions it once. Gets out of the way.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Salvador Muñoz",
+        "email": "salvador.munoz@gmail.com",
+        "url": "https://github.com/kthxbyte"
+      },
+      "source": {
+        "source": "github",
+        "repo": "kthxbyte/skill-recommend"
+      }
+    }
+  ]
+}
+
